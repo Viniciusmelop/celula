@@ -54,7 +54,7 @@ nav li{
 }
 iframe{
     display: block;
-    width: 80vw;
+    width: 100vw;
     height: 40vh;
     margin: auto;
     margin-top: 10vh;
